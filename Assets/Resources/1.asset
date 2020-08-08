@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71adbf6bf43aa8a49abd6e54d5a59435, type: 3}
+  m_Name: 1
+  m_EditorClassIdentifier: 
+  name: Arma de Plasma
+  cardID: 1
+  description: Tiro a longa distancia
+  habilities:
+  - Damage
+  targetIMG: {fileID: 3100856887975758742, guid: 5112679e5f3b9494b8738e9ebda7ca78,
+    type: 3}
+  target: Enemy
+  template: {fileID: 21300000, guid: 9c83483f875d94f47b61f0bea9042676, type: 3}
+  damage: 20
+  type: 
+  fxSound: Gun
